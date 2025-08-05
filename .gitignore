@@ -1,0 +1,9 @@
+# Python / Django
+env/
+venv/
+__pycache__/
+db.sqlite3
+
+# Editor folders
+.vscode/
+.idea/
